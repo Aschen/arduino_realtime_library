@@ -1,6 +1,6 @@
-# Simple Real Time Arduino Components
+# Real Time Arduino Library
 
-The purpose of this library is to provide a simple interface to control hardware in a non-blocking way (Real-Time).  
+The purpose of this library is to provide a simple components to control hardware in a non-blocking way (Real-Time).  
 
 Each library component of the library consists in two parts :
  - non-blocking functions using millis() to work
